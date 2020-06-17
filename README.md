@@ -1,2 +1,2 @@
 # Estudo
- Repositório para estudos
+ Repositório criado para estudos
