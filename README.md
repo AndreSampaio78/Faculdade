@@ -1,2 +1,3 @@
-# Estudo
- Repositório criado para estudos
+# Estudo Faculdade
+ Repositório criado para estudos.
+ Blz!
